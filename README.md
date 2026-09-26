@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://mrms.xo.je/assets/images/logo_blue.png" alt="Meghdoot Resort Logo" height="80"/>
+<img src="assets/images/logo_white.png" alt="Meghdoot Resort Logo" height="80"/>
 
 # Meghdoot Resort Management System
 
