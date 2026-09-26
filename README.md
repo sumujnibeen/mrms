@@ -13,7 +13,7 @@
 [![License](https://img.shields.io/badge/License-Academic-blue?style=flat-square)](#)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-mrms.xo.je-1d4ed8?style=flat-square&logo=vercel&logoColor=white)](https://mrms.xo.je)
 
-**[Live Demo](https://mrms.xo.je) · [Report Bug](https://github.com) · [Request Feature](https://github.com)**
+**[Live Demo](https://mrms.xo.je) **
 
 </div>
 
